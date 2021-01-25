@@ -3,8 +3,8 @@
 
 # Survival analysis—part 2: Cox proportional hazards model
 
-Salil Vasudeo Deo MD <sup>1,2</sup> , Vaishali Deo DCP DNB MPH
-<sup>2</sup> , Varun Sundaram MD <sup>1,2</sup>
+Salil Vasudeo Deo MD <sup>1,2</sup> , Vaishali Deo MBBS DNB MPH
+<sup>1</sup> , Varun Sundaram MD <sup>1,2</sup>
 
 [![](https://img.shields.io/badge/doi-https://doi.org/10.1007/s12055--020--01108--7-yellow.svg)](https://doi.org/https://doi.org/10.1007/s12055-020-01108-7)
 
