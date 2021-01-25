@@ -1,0 +1,51 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+
+library(badger)
+```
+
+# Survival analysis—part 2: Cox proportional hazards model
+
+Salil Vasudeo Deo MD ^1,2^ , Vaishali Deo DCP DNB MPH ^2^ , Varun Sundaram MD ^1,2^
+
+
+`r badge_doi("https://doi.org/10.1007/s12055-020-01108-7","yellow")`
+
+`r badge_custom("Louis Stokes Cleveland VA Medical Center","Cleveland VA CV Research Group","blue")`
+
+1 - Louis Stokes Cleveland VA Medical Center, Cleveland Ohio
+
+2- Case School of Medicine, Case Western Reserve University, Cleveland Ohio
+
+
+Corresponding author:
+
+Dr Varun Sundaram MD
+
+Department of Cardiology 
+
+Louis Stokes Cleveland VA Medical Center, 
+
+Cleveland Ohio 44106
+
+Assistant Professor of Medicine
+
+Case Western Reserve University
+
+Cleveland, Ohio
+
+Email: vxs173@case.edu
+
+
+
+Supplemental section contains dataset and .do file 
+
